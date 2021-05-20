@@ -1,0 +1,1 @@
+El proyecto puede fallar en algunos motores o editores, se recomienda revisar que el compilador esté configurado con la opción XeLaTeX
